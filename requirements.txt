@@ -1,0 +1,10 @@
+# Google Colab (Python 3) 기본 환경 기준
+pandas
+numpy
+statsmodels
+scikit-learn
+scipy
+lightgbm
+shap
+pyproj
+matplotlib
