@@ -1,0 +1,14 @@
+# 대회 제공 데이터·가공 데이터 (대회 규정상 공개 금지)
+data/raw/
+data/processed/
+# 상가정보 원본 (용량 초과, 공공데이터포털에서 내려받기)
+data/external/store/
+# 대회 데이터로 만든 결과 (격자 값 포함)
+outputs/tables/
+outputs/maps/
+outputs/dashboard/
+# 문서·기타
+*.docx
+*.pdf
+.ipynb_checkpoints/
+.DS_Store
