@@ -2,7 +2,7 @@
 ### 폭염·호우에 따른 강남·춘천 상권의 기후 취약성 분석과 예보 연동 지원 방안
 
 > 2026 빅콘테스트 AI데이터 분석 분야 · 「기후 위기에 따른 취약 상권 영향 분석」
-> 팀 **가뭄에 콩나듯** · 염서윤, 권성미 · 2026.09 – 2026.10
+> 팀 **가뭄에콩나듯** · 염서윤, 권성미 · 2026.09 – 2026.10
 
 ![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
